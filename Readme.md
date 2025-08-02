@@ -1,3 +1,16 @@
 # TMUX CONFIG
 
-## Release 0.1
+## Instruction
+
+### Install
+
+```bash
+    brew install tmux
+
+```
+
+## Copy CONFIG
+
+```bash
+  cp ./.tmux.conf.local ~/
+```
